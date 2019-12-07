@@ -558,11 +558,11 @@
   }
   .contactSection #contact-icons {
     margin-top: 10%;
-    padding: 4%;
+    padding: 0%;
     text-align: center;
   }
   .contactSection #contact-icons a {
-    margin: 0 4%;
+    margin: 0 2%;
     text-decoration: none;
     color: rgba(114, 125, 177, 0.562);
     transition: all 0.2s;
